@@ -1,0 +1,14 @@
+# --- Godot editor / import cache ---
+.godot/
+*.import
+
+# --- Downloaded Godot engine binaries (fetch with godot/download-godot.*) ---
+godot/Godot_v*
+godot/*.zip
+
+# --- AI bridge runtime artifacts (transient, auto-cleaned) ---
+.mcp/
+
+# --- OS cruft ---
+.DS_Store
+Thumbs.db

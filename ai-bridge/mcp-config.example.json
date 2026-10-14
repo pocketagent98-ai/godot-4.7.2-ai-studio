@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "godot": {
+      "command": "npx",
+      "args": ["-y", "godot-mcp-runtime"],
+      "env": {
+        "GODOT_PATH": "REPLACE_WITH_ABSOLUTE_PATH_TO_GODOT_EXECUTABLE"
+      }
+    }
+  }
+}
